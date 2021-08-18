@@ -1,2 +1,2 @@
-# My-Books-Collection
-A repository for books of personal interest.
+# Tech Books
+Tech related books collection. If you wanna contribute, please make a pull req.
